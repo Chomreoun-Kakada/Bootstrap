@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.nav-link{
+    color: black;
+    
+}
+.img{
+    margin: 10;
+}
+.container .row{
+    
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
+
+.pa{
+    text-align: center;
+    margin-top: 120px;
+}
+.col-6 img{
+    height: 600px;
+    justify-content: flex-end;
+}
+.pa p{
+    text-align: left;
+    margin-left: 50px;
+}
