@@ -14,6 +14,8 @@ body{
 }
 .img{
     margin: 10;
+    border-radius: 50%;
+    width: 70px;
 }
 .container .row{
     
@@ -25,11 +27,22 @@ body{
     text-align: center;
     margin-top: 120px;
 }
-.col-6 img{
+.col-lg-6 img{
     height: 600px;
     justify-content: flex-end;
+    border-radius: 50%;
 }
 .pa p{
     text-align: left;
     margin-left: 50px;
+}
+.fa-inbox, .fa-phone , .fa-map , .fa-twitch , .fa-github
+, .fa-youtube , .fa-twitter , .fa-facebook , .fa-instagram{
+    margin-right: 10px;
+}
+.fontawesome  {
+    font-size: 30px;
+    
+    
+
 }
