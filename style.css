@@ -43,5 +43,11 @@ body{
 .fontawesome  {
     font-size: 30px;
 
-
+}
+button {
+    background-color: red;
+    cursor: pointer;
+}
+button:hover{
+    background-color: aqua;
 }
